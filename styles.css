@@ -1,0 +1,79 @@
+body {
+    background-color: #050903; /* Black background */
+    color: #ffffff; /* White text */
+    font-family: Verdana, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    text-align: center;
+    padding: 20px;
+}
+
+header h1 {
+    font-family: Verdana;
+    font-weight: normal;
+    font-size: 50px;
+    color: white;
+    margin: 20px 0;
+}
+
+.download-link {
+    color: #8AFFD6; /* Aquamarine color */
+    font-size: 16px;
+    text-decoration: underline;
+    display: block;
+    margin: 10px 0;
+}
+
+.phone-section {
+    margin: 20px 0;
+}
+
+.phone-image {
+    width: 100%;
+    max-width: 300px; /* Adjust according to your image size */
+}
+
+.guide-section h2 {
+    font-family: Verdana;
+    font-size: 42px;
+    font-weight: 300;
+    margin: 20px 0;
+}
+
+.guide-section p {
+    font-family: Verdana;
+    font-size: 21px;
+    color: gray;
+}
+
+.camping-image-section {
+    margin: 20px 0;
+}
+
+.camping-image {
+    width: 100%;
+    height: auto;
+}
+
+footer .coming-soon-section {
+    margin-top: 40px;
+}
+
+.phone-icon {
+    width: 50px;
+    margin-bottom: 20px;
+}
+
+footer h2 {
+    font-size: 28px;
+    margin-bottom: 10px;
+}
+
+footer .download-link {
+    color: #8AFFD6; /* Aquamarine color */
+    font-size: 16px;
+    text-decoration: underline;
+}
